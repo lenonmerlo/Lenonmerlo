@@ -1,7 +1,7 @@
 <!-- HTML com estilo CSS -->
 <div style="animation: fadeIn 2s ease; color: yellow;">
   <h1>Welcome to my GitHub profile!</h1>
-  <p>Hello! I'm [Your Name], a Data Science student from Brazil. Currently, I'm studying Data Science at Universidade Vila Velha and EBAC, and I have a strong interest in technology and programming.</p>
+  <p>Hello! I'm Lenon Merlo, a Data Science student from Brazil. Currently, I'm studying Data Science at Universidade Vila Velha and EBAC, and I have a strong interest in technology and programming.</p>
   
   <h2>🌟 Main Skills</h2>
   <ul>
