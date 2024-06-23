@@ -23,10 +23,3 @@
   <p>I am passionate about learning new technologies and applying my knowledge to practical projects. I am always looking for new opportunities to expand my skills and contribute to innovative projects.</p>
 </div>
 
-<!-- CSS para animação fadeIn -->
-<style>
-  @keyframes fadeIn {
-    from { opacity: 0; }
-    to { opacity: 1; }
-  }
-</style>
