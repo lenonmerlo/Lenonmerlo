@@ -1,16 +1,18 @@
-## Hi there 👋
+# Welcome to my GitHub profile!
 
-<!--
-**lenonmerlo/Lenonmerlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Lenon Merlo, a Data Science student from Brazil. Currently, I'm studying Data Science at Universidade Vila Velha and EBAC, and I have a strong interest in technology and programming.
 
-Here are some ideas to get you started:
+## 🌟 Main Skills
+- **Python**
+- **SQL**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Basic Knowledge
+- **HTML**
+- **Kotlin**
+- **Swift**
+- **JavaScript**
+
+## About Me
+I am passionate about learning new technologies and applying my knowledge to practical projects. I am always looking for new opportunities to expand my skills and contribute to innovative projects.
+
+## Let's Connect!
