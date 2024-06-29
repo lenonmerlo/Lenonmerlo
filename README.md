@@ -8,11 +8,11 @@
     <li><strong>Python</strong></li>
     <li><strong>SQL</strong></li>
     <li><strong>Power BI</strong></li>
+    <li><strong>HTML e CSS</strong></li>
   </ul>
 
   <h2>📚 Basic Knowledge</h2>
   <ul>
-    <li><strong>HTML</strong></li>
     <li><strong>Kotlin</strong></li>
     <li><strong>Swift</strong></li>
     <li><strong>JavaScript</strong></li>
