@@ -1,25 +1,41 @@
-<!-- HTML com estilo CSS -->
-<div style="animation: fadeIn 2s ease; color: yellow;">
-  <h1>Welcome to my GitHub profile!</h1>
-  <p>Hello! I'm Lenon Merlo, a Data Science student from Brazil. Currently, I'm studying Data Science at Universidade Vila Velha and EBAC, and I have a strong interest in technology and programming.</p>
-  
-  <h2>🌟 Main Skills</h2>
-  <ul>
-    <li><strong>Python</strong></li>
-    <li><strong>SQL</strong></li>
-    <li><strong>Power BI</strong></li>
-    <li><strong>HTML e CSS</strong></li>
-  </ul>
+# Olá, eu sou o Lenon Merlo! 👋
 
-  <h2>📚 Basic Knowledge</h2>
-  <ul>
-    <li><strong>Kotlin</strong></li>
-    <li><strong>Swift</strong></li>
-    <li><strong>JavaScript</strong></li>
-    <li><strong>NoSQL</strong></li>
-  </ul>
+Sou um profissional apaixonado por tecnologia e ciência de dados com uma sólida experiência no mercado financeiro. Atualmente, estou em transição para a área de TI e buscando oportunidades em Ciência de Dados e Engenharia de Software.
 
-  <h2>About Me</h2>
-  <p>I am passionate about learning new technologies and applying my knowledge to practical projects. I am always looking for new opportunities to expand my skills and contribute to innovative projects.</p>
-</div>
+## 🌟 Sobre Mim
 
+Com 15 anos de experiência no mercado financeiro e um histórico de trabalho em bancos e seguradoras, estou agora explorando novas fronteiras na tecnologia. Sou um estudante dedicado de Ciência de Dados na Universidade Vila Velha (UVV) e na EBAC - Escola Britânica de Artes e Tecnologia.
+
+Recentemente, iniciei também o curso de Engenharia Front-end pela EBAC para expandir minhas habilidades no desenvolvimento web.
+
+## 💻 Competências
+
+- **Programação**: Python, HTML, CSS
+- **Machine Learning**: Algoritmos para séries temporais, Regressão Linear
+- **Ferramentas**: Power BI, Git, GitHub
+- **Banco de Dados**: SQL, NoSQL
+
+## 📂 Projetos
+
+- **[cursodatascience](https://github.com/lenonmerlo/cursodatascience)**: Projetos e análises de dados desenvolvidos durante o curso de Data Science.
+- **[precodecasas](https://github.com/lenonmerlo/precodecasas)**: Repositório contendo projetos de pré-codificação para imóveis.
+- **[alugueldebikes](https://github.com/lenonmerlo/alugueldebikes)**: Projeto de Machine Learning para previsão de demanda de aluguel de bicicletas.
+
+## 📚 Formação
+
+- **Administração** - Concluído em 2010
+- **Data Science** - Universidade Vila Velha (UVV) e EBAC
+- **Engenharia Front-end** - EBAC (em andamento)
+
+## 📬 Contato
+
+- **LinkedIn**: [lenonmerlo](https://www.linkedin.com/in/lenonmerlo)
+- **WhatsApp**: [2799996-7238](tel:2799996-7238)
+
+## 🚀 Vamos Conversar!
+
+Estou sempre aberto a novas conexões e oportunidades. Sinta-se à vontade para me contatar através dos links acima!
+
+---
+
+**Nota**: Este perfil está sempre em atualização para refletir minhas novas conquistas e aprendizados.
