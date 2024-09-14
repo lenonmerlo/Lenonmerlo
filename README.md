@@ -39,3 +39,7 @@ Estou sempre aberto a novas conexões e oportunidades. Sinta-se à vontade para 
 ---
 
 **Nota**: Este perfil está sempre em atualização para refletir minhas novas conquistas e aprendizados.
+
+![lenonmerlo's Stats](https://github-readme-stats.vercel.app/api?username=lenonmerlo&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
+![lenonmerlo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lenonmerlo&theme=highcontrast&hide_border=true)
+![lenonmerlo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lenonmerlo&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
