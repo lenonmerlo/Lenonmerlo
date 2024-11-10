@@ -1,45 +1,55 @@
-# Olá, eu sou o Lenon Merlo! 👋
+# Hello World, I'm Lenon Merlo, from Brazil! 👋
 
-Sou um profissional apaixonado por tecnologia e ciência de dados com uma sólida experiência no mercado financeiro. Atualmente, estou em transição para a área de TI e buscando oportunidades em Ciência de Dados e Engenharia de Software.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-## 🌟 Sobre Mim
+<p align="left"> Hi! I'm <strong>Lenon Merlo</strong>, a developer transitioning to the <strong>ADS (Analysis and Systems Development)</strong> course next semester. My stack includes <strong>Python</strong>, <strong>Machine Learning</strong>, <strong>SQL</strong>, <strong>Power BI</strong>, <strong>ReactJS</strong>, <strong>TypeScript</strong>, and <strong>Node.js</strong>. I have already completed the <strong>Front-End Engineer</strong> course at EBAC, and now I'm finishing the <strong>Full Stack Python</strong> course at EBAC and studying <strong>Full Stack JavaScript</strong> at OneBitCode. Currently, I'm focusing on expanding my development skills and looking for opportunities to apply my technical knowledge in full-stack development. </p>
 
-Com 15 anos de experiência no mercado financeiro e um histórico de trabalho em bancos e seguradoras, estou agora explorando novas fronteiras na tecnologia. Sou um estudante dedicado de Ciência de Dados na Universidade Vila Velha (UVV) e na EBAC - Escola Britânica de Artes e Tecnologia.
+<p align="left">
+  🦄 Languages: 
+  <a href="https://www.python.org/" title="Python">
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  </a>
+  <a href="https://www.javascript.com/" title="JavaScript">
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" title="TypeScript">
+    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  </a>
+  <a href="https://www.sql.org/" title="SQL">
+    <img src="https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML">
+    <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS">
+    <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
+  </a>
+</p>
 
-Recentemente, iniciei também o curso de Engenharia Front-end pela EBAC para expandir minhas habilidades no desenvolvimento web.
 
-## 💻 Competências
+<p align="left"> 💼 Tools: VS Code, Git, GitHub, Node.js, React, Django, Flask, Power BI, Jupyter Notebook, Docker, Postman </p>
 
-- **Programação**: Python, HTML, CSS
-- **Machine Learning**: Algoritmos para séries temporais, Regressão Linear
-- **Ferramentas**: Power BI, Git, GitHub
-- **Banco de Dados**: SQL, NoSQL
+<p align="left">
+  💌 Feel free to reach out to me: ⤵️
+</p>
 
-## 📂 Projetos
+<p align="left">
+  <a href="mailto:lenontm@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:lenontm@gmail.com" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/lenonmerlo" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lenonmerlo" alt="LinkedIn"/>
+  </a>
+  <a href="https://wa.me/5527999967238" title="WhatsApp">
+    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5527999967238" alt="WhatsApp"/>
+  </a>
+</p>
 
-- **[cursodatascience](https://github.com/lenonmerlo/cursodatascience)**: Projetos e análises de dados desenvolvidos durante o curso de Data Science.
-- **[precodecasas](https://github.com/lenonmerlo/precodecasas)**: Repositório contendo projetos de pré-codificação para imóveis.
-- **[alugueldebikes](https://github.com/lenonmerlo/alugueldebikes)**: Projeto de Machine Learning para previsão de demanda de aluguel de bicicletas.
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=lenonmerlo&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" alt="lenonmerlo's Stats"/>
+</p>
 
-## 📚 Formação
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenonmerlo&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" alt="lenonmerlo's Top Languages"/>
+</p>
 
-- **Administração** - Concluído em 2010
-- **Data Science** - Universidade Vila Velha (UVV) e EBAC
-- **Engenharia Front-end** - EBAC (em andamento)
-
-## 📬 Contato
-
-- **LinkedIn**: [lenonmerlo](https://www.linkedin.com/in/lenonmerlo)
-- **WhatsApp**: [2799996-7238](tel:2799996-7238)
-
-## 🚀 Vamos Conversar!
-
-Estou sempre aberto a novas conexões e oportunidades. Sinta-se à vontade para me contatar através dos links acima!
-
----
-
-**Nota**: Este perfil está sempre em atualização para refletir minhas novas conquistas e aprendizados.
-
-![lenonmerlo's Stats](https://github-readme-stats.vercel.app/api?username=lenonmerlo&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
-![lenonmerlo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lenonmerlo&theme=highcontrast&hide_border=true)
-![lenonmerlo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lenonmerlo&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
