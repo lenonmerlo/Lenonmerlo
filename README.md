@@ -4,6 +4,18 @@
 
 <p align="left"> Hi! I'm <strong>Lenon Merlo</strong>, a developer transitioning to the <strong>ADS (Analysis and Systems Development)</strong> course next semester. My stack includes <strong>Python</strong>, <strong>Machine Learning</strong>, <strong>SQL</strong>, <strong>Power BI</strong>, <strong>ReactJS</strong>, <strong>TypeScript</strong>, and <strong>Node.js</strong>. I have already completed the <strong>Front-End Engineer</strong> course at EBAC, and now I'm finishing the <strong>Full Stack Python</strong> course at EBAC and studying <strong>Full Stack JavaScript</strong> at OneBitCode. Currently, I'm focusing on expanding my development skills and looking for opportunities to apply my technical knowledge in full-stack development. </p>
 
+![Lenon Merlo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lenonmerlo&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenonmerlo&layout=compact&theme=dark)
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=lenonmerlo&margin-w=5&theme=darkhub)
+
+
+
+
+
+
+
 <p align="left">
   🦄 Languages: 
   <a href="https://www.python.org/" title="Python">
@@ -90,5 +102,11 @@
     <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5527999967238" alt="WhatsApp"/>
   </a>
 </p>
+
+
+
+
+
+
 
 
