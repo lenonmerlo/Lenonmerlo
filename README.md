@@ -1,7 +1,7 @@
 # Olá, Mundo! Eu sou o Lenon, do Brasil! 👋  
 
 ## 👨‍💻 Sobre mim  
-Olá! Meu nome é **Lenon Merlo**, sou um desenvolvedor em transição de carreira e atualmente estudo:  
+Olá! Meu nome é **Lenon Merlo**, sou um desenvolvedor full stack.
 
 📌 **Análise e Desenvolvimento de Sistemas (ADS)** na **FIAP**  
 📌 **Ciência de Dados** na **UVV**  
