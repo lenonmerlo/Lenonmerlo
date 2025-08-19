@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-lenontm%40gmail.com-FF00E6?style=for-the-badge&logo=gmail&logoColor=111827)](mailto:lenontm@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+55%2027%2099734--3401-39FF14?style=for-the-badge&logo=whatsapp&logoColor=111827)](https://wa.me/5527997343401)
 
-> Construo soluções simples, úteis e com atenção a detalhes. No back curto **Java (Spring Boot)** e **Node.js**, no front **React**. Também passeio por **Python**, **SQL/NoSQL** e integrações.
+> Construo soluções simples, úteis e com atenção a detalhes. No back curto **Java (Spring Boot)** e **Node.js**, no front **React**. Também passeio por **Python**, **SQL/NoSQL**, **Ruby**, **Go**, **React Native** e integrações.
 
 </div>
 
