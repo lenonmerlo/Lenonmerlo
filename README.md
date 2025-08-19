@@ -21,7 +21,7 @@
 
 ---
 
-## 🧰 Stack (com vibe neon)
+## 🧰 Stack
 **Linguagens**: Java · Python · JavaScript · TypeScript  
 **Back-end**: Spring Boot · Node/Express · REST · JWT · Swagger  
 **Front-end**: React · Vite · TailwindCSS  
