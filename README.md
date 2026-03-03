@@ -34,20 +34,6 @@
 
 ---
 
-## 🌟 Projetos em Destaque
-
-### 🎯 TorneioPro — Gerenciador de Torneios de Vôlei de Praia _(WIP)_
-Inscrições, sorteio de chaves, administração de partidas e resultados.  
-**Stack:** React · Node/Express · PostgreSQL · Tailwind  
-**Repo:** https://github.com/lenonmerlo/TorneioPro
-
-### 🐾 Bark — Plataforma de cuidados para Pets _(WIP)_
-Soluções digitais para tutores e profissionais.
-<!-- Quando houver repo público, adicionar link -->
-
-<!-- Você pode fixar seus repositórios no perfil para destacá-los visualmente. -->
-
----
 
 ## 📊 Métricas
 <p align="left">
