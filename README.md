@@ -12,12 +12,6 @@
 
 </div>
 
----
-
-## 🔥 Agora
-- Focando em **Java + Spring** (REST, segurança, testes).  
-- Evoluindo projeto **full stack** próprio.  
-- Aberto a **oportunidades Júnior/Estágio** (remoto ou ES).
 
 ---
 
