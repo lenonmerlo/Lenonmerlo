@@ -1,69 +1,95 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:00FF87&height=180&section=header&text=Lenon%20Merlo&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack&descAlignY=58&descSize=18" alt="Banner do perfil de Lenon Merlo" />
+</div>
 
-# Lenon Merlo
-
-### Dev Full Stack · Java/Spring · .NET/C# · React · Node
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lenonmerlo-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00FF87)](https://www.linkedin.com/in/lenonmerlo)
-[![Portfolio](https://img.shields.io/badge/Portfolio-lenonmerlo.dev-0a0a0a?style=for-the-badge&logo=vercel&logoColor=00FF87)](https://portfolio-lenon-merlo.vercel.app/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-lenonmerlo.dev-0a0a0a?style=for-the-badge&logo=vercel&logoColor=00FF87)](https://portfolio-lenon-merlo.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-lenontm@gmail.com-0a0a0a?style=for-the-badge&logo=gmail&logoColor=00FF87)](mailto:lenontm@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-27_99734--3401-0a0a0a?style=for-the-badge&logo=whatsapp&logoColor=00FF87)](https://wa.me/5527997343401)
 
-> Construo soluções simples, úteis e com atenção a detalhes.  
-> Back-end em **Java (Spring Boot)**, **.NET (C#)** e **Node.js** · Front-end em **React**
+</div>
+
+## Olá! 👋
+
+Sou **Lenon Merlo**, desenvolvedor **Full Stack** interessado em transformar problemas reais em soluções simples, úteis e bem construídas.
+
+Atuo principalmente com **Java e Spring Boot**, **.NET e C#**, **Node.js** e **React**, criando APIs, aplicações web e integrações com foco em clareza, manutenção e evolução contínua.
+
+- 🔧 Desenvolvimento de APIs RESTful e aplicações web
+- 🧩 Arquitetura, integração entre serviços e persistência de dados
+- 🧪 Documentação e testes de APIs com Swagger e Postman
+- 🚀 Práticas de versionamento, containerização e entrega
+
+## Tecnologias
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-0a0a0a?style=for-the-badge&logo=openjdk&logoColor=00FF87)
+![C#](https://img.shields.io/badge/C%23-0a0a0a?style=for-the-badge&logo=csharp&logoColor=00FF87)
+![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=00FF87)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=00FF87)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=00FF87)
+![React](https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=00FF87)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0a0a0a?style=for-the-badge&logo=springboot&logoColor=00FF87)
+![.NET](https://img.shields.io/badge/.NET-0a0a0a?style=for-the-badge&logo=dotnet&logoColor=00FF87)
+![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=for-the-badge&logo=node.js&logoColor=00FF87)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=for-the-badge&logo=postgresql&logoColor=00FF87)
+![Oracle](https://img.shields.io/badge/Oracle-0a0a0a?style=for-the-badge&logo=oracle&logoColor=00FF87)
+![MongoDB](https://img.shields.io/badge/MongoDB-0a0a0a?style=for-the-badge&logo=mongodb&logoColor=00FF87)
+![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=for-the-badge&logo=docker&logoColor=00FF87)
 
 </div>
 
----
+| Área | Ferramentas |
+|---|---|
+| **Back-end** | Spring Boot · .NET · Node.js/Express · REST · JWT · Swagger |
+| **Front-end** | React · Vite · TailwindCSS |
+| **Dados** | Oracle · PostgreSQL · MongoDB · Prisma · JPA · Flyway |
+| **Dev & colaboração** | Git · GitHub · Docker · Postman · Figma |
 
-## Stack
+## Projetos em destaque
 
-**Linguagens** &nbsp;·&nbsp; Java · C# · Python · JavaScript · TypeScript  
-**Back-end** &nbsp;·&nbsp; Spring Boot · .NET · Node/Express · REST · JWT · Swagger  
-**Front-end** &nbsp;·&nbsp; React · Vite · TailwindCSS  
-**Dados** &nbsp;·&nbsp; Oracle · PostgreSQL · MongoDB · Prisma/JPA · Flyway  
-**Dev** &nbsp;·&nbsp; Git/GitHub · Docker · Postman · Figma
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>♻️ ESG Resíduos API</h3>
+      <p>API RESTful para gestão de resíduos com foco em práticas ESG.</p>
+      <p><strong>Java · Spring Boot · Oracle · Docker</strong></p>
+      <a href="https://github.com/lenonmerlo/esg-residuos">Ver projeto →</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🛒 API Vendas</h3>
+      <p>API de vendas integrada a banco de dados PostgreSQL.</p>
+      <p><strong>Node.js · PostgreSQL</strong></p>
+      <a href="https://github.com/lenonmerlo/api-vendas-com-db">Ver projeto →</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>📣 Marketing Campaign</h3>
+      <p>API para gerenciamento de campanhas de marketing.</p>
+      <p><strong>TypeScript · Node.js</strong></p>
+      <a href="https://github.com/lenonmerlo/api-marketing-campaign">Ver projeto →</a>
+    </td>
+  </tr>
+</table>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-0a0a0a?style=flat-square&logo=openjdk&logoColor=00FF87" />
-  <img src="https://img.shields.io/badge/C%23-0a0a0a?style=flat-square&logo=csharp&logoColor=00FF87" />
-  <img src="https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=00FF87" />
-  <img src="https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=00FF87" />
-  <img src="https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=00FF87" />
-  <img src="https://img.shields.io/badge/Spring_Boot-0a0a0a?style=flat-square&logo=springboot&logoColor=00FF87" />
-  <img src="https://img.shields.io/badge/.NET-0a0a0a?style=flat-square&logo=dotnet&logoColor=00FF87" />
-  <img src="https://img.shields.io/badge/Docker-0a0a0a?style=flat-square&logo=docker&logoColor=00FF87" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=00FF87" />
-  <img src="https://img.shields.io/badge/Oracle-0a0a0a?style=flat-square&logo=oracle&logoColor=00FF87" />
-  <img src="https://img.shields.io/badge/MongoDB-0a0a0a?style=flat-square&logo=mongodb&logoColor=00FF87" />
-</p>
+## GitHub em números
 
----
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lenonmerlo&show_icons=true&theme=github_dark&icon_color=00FF87&title_color=00FF87&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub de Lenon Merlo" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenonmerlo&layout=compact&theme=github_dark&title_color=00FF87&hide_border=true&langs_count=8" alt="Principais linguagens de Lenon Merlo" />
+</div>
 
-## Projetos em Destaque
+## Vamos conversar?
 
-| Projeto | Stack | Descrição |
-|---|---|---|
-| [ESG Resíduos API](https://github.com/lenonmerlo/esg-residuos) | Java · Spring Boot · Oracle · Docker | API RESTful para gestão de resíduos com práticas ESG |
-| [API Vendas](https://github.com/lenonmerlo/api-vendas-com-db) | Node.js · PostgreSQL | API de vendas com banco de dados |
-| [API Marketing Campaign](https://github.com/lenonmerlo/api-marketing-campaign) | TypeScript · Node.js | API para gestão de campanhas de marketing |
+Se quiser trocar uma ideia sobre desenvolvimento, APIs, arquitetura ou oportunidades, fale comigo:
 
+- 🌐 [Portfólio](https://portfolio-lenon-merlo.vercel.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/lenonmerlo)
+- ✉️ [lenontm@gmail.com](mailto:lenontm@gmail.com)
+- 💬 [WhatsApp](https://wa.me/5527997343401)
 
----
-
-## Métricas
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lenonmerlo&show_icons=true&theme=github_dark&icon_color=00FF87&title_color=00FF87&hide_title=true&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenonmerlo&layout=compact&theme=github_dark&title_color=00FF87&hide_border=true" height="150" />
-</p>
-
----
-
-## Contato
-
-- [portfolio-lenon-merlo.vercel.app](https://portfolio-lenon-merlo.vercel.app/)
-- [linkedin.com/in/lenonmerlo](https://www.linkedin.com/in/lenonmerlo)
-- [lenontm@gmail.com](mailto:lenontm@gmail.com)
-
-> _"A curiosidade acende; o código ilumina."_
+<div align="center">
+  <sub>"A curiosidade acende; o código ilumina."</sub>
+</div>
